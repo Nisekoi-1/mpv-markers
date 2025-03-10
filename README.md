@@ -6,8 +6,8 @@ This repository contains a Lua script for the MPV video player that automaticall
 - **Remove Last Marker:** Press `Ctrl++` to remove the last marker.
 - **Clear All Markers:** Press `Ctrl+Shift++` to clear all markers.
 - **Persistent Storage:** Markers are stored in an ASS file specific to the video file.
-- **Export Markers:** Option to export markers to a text file.
-- **Jump Between Markers:** Functions to jump to the previous or next marker (by playback time).
+- **Export Markers:** Option to export markers to a text file. (Key not bound)
+- **Jump Between Markers:** Functions to jump to the previous or next marker (by playback time). (Key not bound)
 
 ## Installation
 
